@@ -1,5 +1,0 @@
-F:/c_cpp/miniIM/build/CMakeFiles/minim.dir
-F:/c_cpp/miniIM/build/CMakeFiles/test_minim.dir
-F:/c_cpp/miniIM/build/CMakeFiles/RUN_TESTS.dir
-F:/c_cpp/miniIM/build/CMakeFiles/ALL_BUILD.dir
-F:/c_cpp/miniIM/build/CMakeFiles/ZERO_CHECK.dir
