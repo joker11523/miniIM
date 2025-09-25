@@ -1,0 +1,6 @@
+{
+  "cmake.configureArgs": [
+    "-DCMAKE_TOOLCHAIN_FILE=F:/vcpkg/scripts/buildsystems/vcpkg.cmake"
+  ],
+  "cmake.platform": "x64"
+}
